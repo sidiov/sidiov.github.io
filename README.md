@@ -1,4 +1,3 @@
 ## Final Fantasy XI Weaponskill Damage Calculator
-###WSCalc
-[Link]https://github.com/sidiov/WSCalc
+### [WSCalc](https://github.com/sidiov/WSCalc)
 
